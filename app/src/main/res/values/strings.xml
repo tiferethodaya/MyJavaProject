@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application chadash</string>
+    <string name="targuil1">1</string>
+    <string name="targuil2">2</string>
+    <string name="targuil3">3</string>
+    <string name="targuil4">4</string>
+    <string name="targuil5">5</string>
+    <string name="title_activity_targuil2">Targuil2Activity</string>
+    <string name="title_activity_targuil3">activity_targuil3</string>
+</resources>
