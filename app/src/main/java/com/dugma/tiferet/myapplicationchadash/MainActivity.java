@@ -32,7 +32,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         button1.setOnClickListener(this);
         button2.setOnClickListener(this);
         button3.setOnClickListener(this);
-
     //      button4.setOnClickListener(this);
     }
 
