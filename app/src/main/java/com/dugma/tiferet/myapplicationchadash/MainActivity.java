@@ -8,11 +8,11 @@ import android.widget.Button;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
-    private static Button button1;
-    private static Button button2;
-    private static Button button3;
-    private static Button button4;
-    private static Button button5;
+    private  Button button1;
+    private  Button button2;
+    private  Button button3;
+    private  Button button4;
+    private  Button button5;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,7 +32,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         button1.setOnClickListener(this);
         button2.setOnClickListener(this);
         button3.setOnClickListener(this);
- //       button4.setOnClickListener(this);
+
+    //      button4.setOnClickListener(this);
     }
 
     @Override
